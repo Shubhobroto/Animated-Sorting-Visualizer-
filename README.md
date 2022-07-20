@@ -5,7 +5,7 @@ Visualize Different Sorting Algorithms using JavaScript.
 1. JS - Used as asynchronous event-driven JavaScript runtime.
 2. HTML - Used for making the backbone of the webpage
 3. CSS - For adding styling, color and animation. 
-### Live Demo : https://chatapp.com/
+### Live Demo : https://shubhosortingvisualizer.herokuapp.com/
 
 
 ## Preview
