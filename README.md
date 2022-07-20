@@ -15,19 +15,19 @@ Visualize Different Sorting Algorithms using JavaScript.
 3. Speed: To Increase/Decrease the speed of visualizer. 
 
 Bubble Sort
-![bubble](https://Real-Time-Chat-App/blob/master/README/Screenshot%20(58).png)
+![bubble](https://github.com/Shubhobroto/Animated-Sorting-Visualizer-/blob/main/README/bubbleSort.jpg)
 
 Insertion Sort
-![insertion](https:/Real-Time-Chat-App/blob/master/README/Screenshot%20(58).png)
+![insertion](https://github.com/Shubhobroto/Animated-Sorting-Visualizer-/blob/main/README/insertionSort.jpg)
 
 Quick Sort
-![quick](https://Real-Time-Chat-App/blob/master/README/Screenshot%20(58).png)
+![quick](https://github.com/Shubhobroto/Animated-Sorting-Visualizer-/blob/main/README/quickSort.jpg)
 
 Merge Sort
-![merge](https:/Real-Time-Chat-App/blob/master/README/Screenshot%20(58).png)
+![merge](https://github.com/Shubhobroto/Animated-Sorting-Visualizer-/blob/main/README/mergeSort.jpg)
 
 Selection Sort
-![selection](https:/Real-Time-Chat-App/blob/master/README/Screenshot%20(58).png)
+![selection](https://github.com/Shubhobroto/Animated-Sorting-Visualizer-/blob/main/README/selectionSort.jpg)
 
 ## Local Setup & Available Scripts
 Clone the project in your local system and directy run the 
